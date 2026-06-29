@@ -15,7 +15,7 @@ Actualmente continúo ampliando mis conocimientos en **API Testing con Postman**
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+#  Tecnologías y Herramientas
 
 ### QA & Testing
 
@@ -60,13 +60,13 @@ Actualmente continúo ampliando mis conocimientos en **API Testing con Postman**
 
 ---
 
-# 🚀 Proyectos Destacados
+#  Proyectos Destacados
 
 ## Cypress OrangeHRM Login Test
 
 Automatización del proceso de autenticación de OrangeHRM utilizando Cypress.
 
-🔗 https://github.com/CamiloGonzalezPineda/Cypress-OrangeHRM-Login-Test
+ https://github.com/CamiloGonzalezPineda/Cypress-OrangeHRM-Login-Test
 
 ---
 
@@ -74,7 +74,7 @@ Automatización del proceso de autenticación de OrangeHRM utilizando Cypress.
 
 Proyecto práctico enfocado en la automatización de pruebas funcionales sobre aplicaciones web.
 
-🔗 https://github.com/CamiloGonzalezPineda/Proyect-Cypres-Pruebas
+ https://github.com/CamiloGonzalezPineda/Proyect-Cypres-Pruebas
 
 ---
 
@@ -82,11 +82,11 @@ Proyecto práctico enfocado en la automatización de pruebas funcionales sobre a
 
 Proyecto desarrollado para fortalecer fundamentos de Quality Assurance y automatización de pruebas.
 
-🔗 https://github.com/CamiloGonzalezPineda/QA-Init
+ https://github.com/CamiloGonzalezPineda/QA-Init
 
 ---
 
-# 📚 Actualmente aprendiendo
+#  Actualmente aprendiendo
 
 * API Testing con Postman
 * Automatización de pruebas con Cypress
@@ -96,15 +96,15 @@ Proyecto desarrollado para fortalecer fundamentos de Quality Assurance y automat
 
 ---
 
-# 🎯 Objetivo Profesional
+#  Objetivo Profesional
 
 Mi objetivo es iniciar mi carrera como **QA Automation Junior**, aportando compromiso, aprendizaje continuo y una fuerte orientación hacia la calidad del software, mientras continúo desarrollando mis habilidades técnicas y profesionales.
 
 ---
 
-# 📫 Contacto
+#  Contacto
 
-📧 **[camgp98@gmail.com](mailto:camgp98@gmail.com)**
+ **[camgp98@gmail.com](mailto:camgp98@gmail.com)**
 
-💼 **Actualmente abierto a oportunidades como QA Automation Junior.**
+ **Actualmente abierto a oportunidades como QA Automation Junior.**
 
