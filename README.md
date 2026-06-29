@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="QA Automation Junior Banner" width="100%">
+</p>
+
+
 # 👋 Hola, soy Camilo Andrés González Pineda
 
 ## QA Automation Junior
