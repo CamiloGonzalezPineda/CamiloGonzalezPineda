@@ -32,6 +32,7 @@ Actualmente continúo ampliando mis conocimientos en **API Testing con Postman**
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
+
 #  Tecnologías y Herramientas
 
 ### QA & Testing
