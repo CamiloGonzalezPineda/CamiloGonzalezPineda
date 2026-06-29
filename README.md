@@ -110,7 +110,7 @@ Proyecto desarrollado para fortalecer fundamentos de Quality Assurance y automat
 * Automatización de pruebas con Cypress
 * Buenas prácticas de QA Automation
 * SQL para QA
-* Preparación para entrevistas técnicas de QA
+
 
 ---
 
