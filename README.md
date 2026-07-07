@@ -1,5 +1,5 @@
 
-# 👋 Hola, soy Camilo Andrés González Pineda
+#  Hola, soy Camilo Andrés González Pineda
 
 ## QA Automation Junior
 
