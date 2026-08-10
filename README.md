@@ -76,27 +76,27 @@ Actualmente continúo ampliando mis conocimientos en **API Testing con Postman**
 
 #  Proyectos Destacados
 
+## Login Cypress - SauceDemo
+
+Automatización de pruebas del proceso de autenticación en SauceDemo utilizando Cypress.
+
+https://github.com/CamiloGonzalezPineda/Login-Cypress-SauceDemo
+
+---
+
 ## Cypress OrangeHRM Login Test
 
-Automatización del proceso de autenticación de OrangeHRM utilizando Cypress.
+Automatización del proceso de autenticación en OrangeHRM utilizando Cypress.
 
- https://github.com/CamiloGonzalezPineda/Cypress-OrangeHRM-Login-Test
+https://github.com/CamiloGonzalezPineda/Cypress-OrangeHRM-Login-Test
 
 ---
 
 ## Proyecto Cypress - Automatización de Pruebas
 
-Proyecto práctico enfocado en la automatización de pruebas funcionales sobre aplicaciones web.
+Proyecto práctico enfocado en la automatización de pruebas funcionales sobre aplicaciones web utilizando Cypress.
 
- https://github.com/CamiloGonzalezPineda/Proyect-Cypres-Pruebas
-
----
-
-## QA Init
-
-Proyecto desarrollado para fortalecer fundamentos de Quality Assurance y automatización de pruebas.
-
- https://github.com/CamiloGonzalezPineda/QA-Init
+https://github.com/CamiloGonzalezPineda/Proyect-Cypres-Pruebas
 
 ---
 
