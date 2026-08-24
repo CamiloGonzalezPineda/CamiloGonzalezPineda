@@ -29,52 +29,32 @@ Actualmente continúo ampliando mis conocimientos en **API Testing con Postman**
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-#  Tecnologías y Herramientas
+#  HABILIDADES TÉCNICAS
 
-### QA & Testing
+Testing: Manual Testing · Functional Testing · UI Testing · End-to-End Testing (E2E) · Smoke Testing · Regression Testing · Test Case Execution · Bug Reporting
 
-* Manual Testing
-* Functional Testing
-* UI Testing
-* End-to-End Testing (E2E)
-* Smoke Testing
-* Regression Testing
-* Test Case Execution
-* Bug Reporting
+Automatización: Cypress · JavaScript
 
-### Automatización
+API Testing: Postman (Nivel básico) · REST API Fundamentals
 
-* Cypress
-* JavaScript
+Bases de datos: SQL (Nivel básico) · MySQL
 
-### API Testing
+Herramientas: Git · GitHub · Jira · VS Code · Chrome DevTools · Netlify
 
-* Postman (Nivel básico)
-* REST API Fundamentals
+Tecnologías: HTML5 · CSS3 · JSON
 
-### Herramientas
-
-* Git
-* GitHub
-* VS Code
-* Chrome DevTools
-
-### Tecnologías
-
-* HTML5
-* CSS3
-* JSON
-
-### Metodologías
-
-* Agile
-* Scrum
-* SDLC
-* STLC
-
+Metodologías: Agile · Scrum · SDLC · STLC
 ---
 
 #  Proyectos Destacados
+
+## Proyecto QA - Urban Routes | TripleTen
+
+Pruebas funcionales de la aplicación Urban Routes realizadas durante el programa QA Engineering de TripleTen.
+
+https://github.com/CamiloGonzalezPineda/SprintUno
+
+---
 
 ## Login Cypress - SauceDemo
 
@@ -89,14 +69,6 @@ https://github.com/CamiloGonzalezPineda/Login-Cypress-SauceDemo
 Automatización del proceso de autenticación en OrangeHRM utilizando Cypress.
 
 https://github.com/CamiloGonzalezPineda/Cypress-OrangeHRM-Login-Test
-
----
-
-## Proyecto Cypress - Automatización de Pruebas
-
-Proyecto práctico enfocado en la automatización de pruebas funcionales sobre aplicaciones web utilizando Cypress.
-
-https://github.com/CamiloGonzalezPineda/Proyect-Cypres-Pruebas
 
 ---
 
