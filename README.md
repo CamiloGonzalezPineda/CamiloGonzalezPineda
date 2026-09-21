@@ -46,31 +46,7 @@ Tecnologías: HTML5 · CSS3 · JSON
 Metodologías: Agile · Scrum · SDLC · STLC
 ---
 
-#  Proyectos Destacados
 
-## Proyecto QA - Urban Routes | TripleTen
-
-Pruebas funcionales de la aplicación Urban Routes realizadas durante el programa QA Engineering de TripleTen.
-
-https://github.com/CamiloGonzalezPineda/SprintUno
-
----
-
-## Login Cypress - SauceDemo
-
-Automatización de pruebas del proceso de autenticación en SauceDemo utilizando Cypress.
-
-https://github.com/CamiloGonzalezPineda/Login-Cypress-SauceDemo
-
----
-
-## Cypress OrangeHRM Login Test
-
-Automatización del proceso de autenticación en OrangeHRM utilizando Cypress.
-
-https://github.com/CamiloGonzalezPineda/Cypress-OrangeHRM-Login-Test
-
----
 
 #  Actualmente aprendiendo
 
