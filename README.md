@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/imgQA.png" alt="QA Engineer | Manual Testing | Automation">
+</p>
 
 #  Hola, soy Camilo Andrés González Pineda
 
