@@ -2,7 +2,7 @@
   <img src="./assets/imgQA.png" alt="QA Engineer | Manual Testing | Automation">
 </p>
 
-# ¡Hola! Soy Camilo Andrés González Pineda 
+#  ¡Hola! Soy Camilo Andrés González Pineda 
 
 ### QA Tester Junior | Manual Testing | API Testing | Test Automation
 
@@ -39,7 +39,7 @@ Busco una oportunidad como **QA Tester Junior** en la que pueda aplicar mis cono
 ## 📫 Contacto
 
 - **Correo:** camgp98@gmail.com
-- **GitHub:** [Mi perfil de GitHub](https://github.com/)
+
 
 Estoy abierto a conectar con profesionales y equipos del área de QA y tecnología.
 
