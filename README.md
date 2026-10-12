@@ -2,74 +2,78 @@
   <img src="./assets/imgQA.png" alt="QA Engineer | Manual Testing | Automation">
 </p>
 
-#  Hola, soy Camilo Andrés González Pineda
+# ¡Hola! Soy Camilo Andrés González Pineda 
 
-## QA Automation Junior
+### QA Tester Junior | Manual Testing | API Testing | Test Automation
 
-Soy QA Automation Junior con formación en Desarrollo de Software y actualmente estoy buscando mi primera oportunidad profesional en el área de Quality Assurance.
+Soy Técnico Laboral en Desarrollo de Software y actualmente me estoy formando como QA Engineer en TripleTen. Estoy construyendo mi portafolio mediante proyectos prácticos de testing manual, pruebas de API y automatización de pruebas end-to-end (E2E).
 
-Me he enfocado en aprender y aplicar pruebas manuales y automatizadas para aplicaciones web utilizando **Cypress** y **JavaScript**, desarrollando proyectos prácticos que fortalecen mis conocimientos en automatización de pruebas End-to-End (E2E), validación funcional y aseguramiento de la calidad del software.
+A través de estos proyectos he diseñado y ejecutado casos de prueba, validado escenarios positivos y negativos, comparado resultados esperados con los obtenidos y documentado defectos con sus pasos de reproducción y evidencias.
 
-Actualmente continúo ampliando mis conocimientos en **API Testing con Postman**, además de seguir fortaleciendo mis habilidades en automatización y buenas prácticas de QA.
+Me caracterizo por la atención al detalle, el pensamiento analítico, la resolución de problemas y el aprendizaje continuo. Mi objetivo es contribuir a la calidad del software mientras continúo desarrollándome profesionalmente en QA.
 
+##  Habilidades técnicas
 
+**Testing:** Manual Testing · Functional Testing · UI Testing · End-to-End Testing (E2E) · Smoke Testing · Regression Testing · Test Case Design · Bug Reporting
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cypress" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" />
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+**API Testing:** Postman · Swagger · REST APIs · HTTP · JSON
 
-#  HABILIDADES TÉCNICAS
+**Automatización:** Cypress · JavaScript · Assertions · Selectors
 
-Testing: Manual Testing · Functional Testing · UI Testing · End-to-End Testing (E2E) · Smoke Testing · Regression Testing · Test Case Execution · Bug Reporting
+**Herramientas:** Jira · Git · GitHub · VS Code · Chrome DevTools
 
-Automatización: Cypress · JavaScript
+**Bases de datos:** SQL básico · MySQL
 
-API Testing: Postman (Nivel básico) · REST API Fundamentals
+**Tecnologías web:** HTML5 · CSS3
 
-Bases de datos: SQL (Nivel básico) · MySQL
+**Metodologías y procesos:** Agile · Scrum · SDLC · STLC
 
-Herramientas: Git · GitHub · Jira · VS Code · Chrome DevTools · Netlify
+##  Proyectos destacados de QA
 
-Tecnologías: HTML5 · CSS3 · JSON
+### 1. Urban Grocers — API Testing
 
-Metodologías: Agile · Scrum · SDLC · STLC
----
+Proyecto práctico de pruebas de API para validar diferentes funcionalidades de Urban Grocers.
 
+- Validé endpoints relacionados con Grocery Bundles, Delivery Services y Shopping Cart.
+- Comprobé parámetros, tipos de datos, respuestas HTTP, estructuras JSON y manejo de errores.
+- Diseñé escenarios positivos y negativos utilizando técnicas como particiones de equivalencia y valores límite.
+- Comparé resultados esperados y obtenidos, e identifiqué y documenté defectos.
 
+**Herramientas:** Postman · Swagger · REST API · HTTP · JSON · Git · GitHub
 
-#  Actualmente aprendiendo
+**Repositorio:** [Agregar enlace de GitHub]
 
-* API Testing con Postman
-* Automatización de pruebas con Cypress
-* Buenas prácticas de QA Automation
-* SQL para QA
+### 2. SauceDemo — Automatización E2E con Cypress
 
+Proyecto práctico de automatización de pruebas para validar el flujo de inicio de sesión de una aplicación web.
 
----
+- Automaticé escenarios positivos y negativos con credenciales válidas, inválidas y campos vacíos.
+- Utilicé aserciones y selectores para comprobar el comportamiento esperado.
+- Organicé las pruebas con `describe()`, `it()` y `beforeEach()`.
+- Ejecuté pruebas mediante Cypress Test Runner y la línea de comandos.
 
-#  Objetivo Profesional
+**Herramientas:** Cypress · JavaScript · Git · GitHub
 
-Mi objetivo es iniciar mi carrera como **QA Automation Junior**, aportando compromiso, aprendizaje continuo y una fuerte orientación hacia la calidad del software, mientras continúo desarrollando mis habilidades técnicas y profesionales.
+**Repositorio:** [Agregar enlace de GitHub]
 
----
+### Otros proyectos
 
-#  Contacto
+**Urban Routes — Pruebas funcionales:** análisis de criterios de aceptación, diseño de checklist, pruebas funcionales y cross-browser, y documentación de defectos con pasos de reproducción, resultados esperados y obtenidos, prioridad y evidencias.
 
- **[camgp98@gmail.com](mailto:camgp98@gmail.com)**
+**Repositorio:** [Agregar enlace de GitHub]
 
- **Actualmente abierto a oportunidades como QA Automation Junior.**
+## 📚 Aprendizaje continuo
+
+Actualmente continúo fortaleciendo mis conocimientos en SQL aplicado a QA, buenas prácticas de automatización y técnicas de prueba de software.
+
+##  Objetivo profesional
+
+Busco una oportunidad como **QA Tester Junior** en la que pueda aplicar mis conocimientos de testing manual, API Testing y automatización, colaborar con un equipo de tecnología y seguir creciendo profesionalmente en Quality Assurance.
+
+## 📫 Contacto
+
+- **Correo:** camgp98@gmail.com
+- **GitHub:** [Mi perfil de GitHub](https://github.com/)
+
+Estoy abierto a conectar con profesionales y equipos del área de QA y tecnología.
 
