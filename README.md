@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/imgQA.png" alt="QA Engineer | Manual Testing | Automation">
+  <img src="./assets/QAEngineerBanner.png" alt="QA Engineer | Manual Testing | Automation">
 </p>
 
 #  ¡Hola! Soy Camilo Andrés González Pineda 
