@@ -4,13 +4,19 @@
 
 #  ¡Hola! Soy Camilo Andrés González Pineda 
 
-### QA Tester Junior | Manual Testing | API Testing | Test Automation
+###  QA Tester Junior | Manual Testing | API Testing | Test Automation
 
 Soy Técnico Laboral en Desarrollo de Software y actualmente me estoy formando como QA Engineer en TripleTen. Estoy construyendo mi portafolio mediante proyectos prácticos de testing manual, pruebas de API y automatización de pruebas end-to-end (E2E).
 
 A través de estos proyectos he diseñado y ejecutado casos de prueba, validado escenarios positivos y negativos, comparado resultados esperados con los obtenidos y documentado defectos con sus pasos de reproducción y evidencias.
 
 Me caracterizo por la atención al detalle, el pensamiento analítico, la resolución de problemas y el aprendizaje continuo. Mi objetivo es contribuir a la calidad del software mientras continúo desarrollándome profesionalmente en QA.
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cypress,js,postman,git,github,html,css,vscode,mysql" />
+</p>
+
 
 ##  Habilidades técnicas
 
