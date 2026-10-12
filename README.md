@@ -28,40 +28,6 @@ Me caracterizo por la atención al detalle, el pensamiento analítico, la resolu
 
 **Metodologías y procesos:** Agile · Scrum · SDLC · STLC
 
-##  Proyectos destacados de QA
-
-### 1. Urban Grocers — API Testing
-
-Proyecto práctico de pruebas de API para validar diferentes funcionalidades de Urban Grocers.
-
-- Validé endpoints relacionados con Grocery Bundles, Delivery Services y Shopping Cart.
-- Comprobé parámetros, tipos de datos, respuestas HTTP, estructuras JSON y manejo de errores.
-- Diseñé escenarios positivos y negativos utilizando técnicas como particiones de equivalencia y valores límite.
-- Comparé resultados esperados y obtenidos, e identifiqué y documenté defectos.
-
-**Herramientas:** Postman · Swagger · REST API · HTTP · JSON · Git · GitHub
-
-**Repositorio:** [Agregar enlace de GitHub]
-
-### 2. SauceDemo — Automatización E2E con Cypress
-
-Proyecto práctico de automatización de pruebas para validar el flujo de inicio de sesión de una aplicación web.
-
-- Automaticé escenarios positivos y negativos con credenciales válidas, inválidas y campos vacíos.
-- Utilicé aserciones y selectores para comprobar el comportamiento esperado.
-- Organicé las pruebas con `describe()`, `it()` y `beforeEach()`.
-- Ejecuté pruebas mediante Cypress Test Runner y la línea de comandos.
-
-**Herramientas:** Cypress · JavaScript · Git · GitHub
-
-**Repositorio:** [Agregar enlace de GitHub]
-
-### Otros proyectos
-
-**Urban Routes — Pruebas funcionales:** análisis de criterios de aceptación, diseño de checklist, pruebas funcionales y cross-browser, y documentación de defectos con pasos de reproducción, resultados esperados y obtenidos, prioridad y evidencias.
-
-**Repositorio:** [Agregar enlace de GitHub]
-
 ## 📚 Aprendizaje continuo
 
 Actualmente continúo fortaleciendo mis conocimientos en SQL aplicado a QA, buenas prácticas de automatización y técnicas de prueba de software.
